@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+            
+# 𝑴𝒂𝒓𝒌𝒐𝒐
   
-<!--
-**Markoo-hub/Markoo-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Software Developer · Python & Web Development · IT Systems 
+ 
+I build practical, real-world software — from debugging and testing to full applications — and I keep learning how software and IT systems fit together.
+ 
+Morocco 🇲🇦 · freelance and junior roles · Python · SQL · Web Development
+ 
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
