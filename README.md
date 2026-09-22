@@ -13,4 +13,4 @@ Morocco 🇲🇦 · freelance and junior roles · Python · SQL · Web Developme
  
 </div>
 
----
+<img src="assets/coding.gif" width="280">
