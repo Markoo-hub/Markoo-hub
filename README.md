@@ -1,6 +1,6 @@
 <div align="center">
             
-# 𝑴𝒂𝒓𝒌𝒐𝒐
+# 𝑴𝒂𝒓𝒌𝒐𝒐 
     
 ### Junior Software Developer · Python & Web Development · IT Systems 
  
