@@ -1,7 +1,8 @@
 <div align="center">
-            
+<p align="center">بسم الله الرحمن الرحيم</p>
+
 # 𝑴𝒂𝒓𝒌𝒐𝒐  
-     
+
 ### Junior Software Developer · Python & Web Development · IT Systems 
   
 I build practical, real-world software — from debugging and testing to full applications — and I keep learning how software and IT systems fit together. 
