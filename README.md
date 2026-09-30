@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">بسم الله الرحمن الرحيم</p>  
-    
+        
 # 𝑴𝒂𝒓𝒌𝒐𝒐  
 
 ### Junior Software Developer · Python & Web Development · IT Systems 
